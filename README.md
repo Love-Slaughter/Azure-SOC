@@ -35,12 +35,9 @@ The architecture in Azure consisted of the following components:
 
 
 ## Attack Maps Before Hardening and Security Controls
-![NSG Allowed Inbound Malicious Flows](<img width="844" alt="Before-nsg-malicious-allowed-in" src="https://github.com/Love-Slaughter/Azure-SOC/assets/132439251/a8527ae5-b182-4a12-80dc-7a5c976cfacf">
-)<br>
-![Linux Syslog Auth Failures](<img width="738" alt="Before-linux-sssh-auth-failures" src="https://github.com/Love-Slaughter/Azure-SOC/assets/132439251/a02fa4d8-8ea8-4122-993b-e4b072e7d2ce">
-)<br>
-![Windows RDP/SMB Auth Failures](<img width="762" alt="Before-windows-rdp-smb-auth-failures" src="https://github.com/Love-Slaughter/Azure-SOC/assets/132439251/bfc2f188-c18a-4d03-850b-835e65e33eea">
-)<br>
+![NSG Allowed Inbound Malicious Flows](Before-nsg-malicious-allowed-in.PNG)<br>
+![Linux Syslog Auth Failures](Before-linux-sssh-auth-failures.PNG)<br>
+![Windows RDP/SMB Auth Failures](Before-windows-rdp-smb-auth-failures.PNG)<br>
 
 ## Metrics Before Hardening and Security Controls
 
@@ -58,10 +55,8 @@ Stop Time 2023-08-18T06:04:48
 
 ## Attack Maps After Hardening and Security Controls
 ``` Some map queries actually returned no results due to no instances of malicious activity for the 24 hour period after hardening.```
-![NSG Allowed Inbound Malicious Flows](<img width="914" alt="After-nsg-malicious-allowed-in" src="https://github.com/Love-Slaughter/Azure-SOC/assets/132439251/2fac140c-2234-49ee-9b20-e7e7e4321b39">
-)<br>
-![Windows RDP/SMB Auth Failures](<img width="929" alt="After-windows-rdp-smb-auth-failures" src="https://github.com/Love-Slaughter/Azure-SOC/assets/132439251/0330fdb4-b050-4fbd-a005-f83bb895f74e">
-)<br>
+![NSG Allowed Inbound Malicious Flows](After-nsg-malicious-allowed-in.PNG)<br>
+![Windows RDP/SMB Auth Failures](After-windows-rdp-smb-auth-failures.PNG)<br>
 
 ## Metrics After Hardening / Security Controls
 
