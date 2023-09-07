@@ -1,6 +1,5 @@
 # Azure Cloud SOC with Honeynet Implementation (Live Traffic)
-![Cloud Honeynet / SOC](<img width="560" alt="Azure-Cloud-Soc" src="https://github.com/Love-Slaughter/Azure-SOC/assets/132439251/02496f69-d6f6-4810-90d9-274037e1c0e9">
-)
+![Cloud Honeynet / SOC](Azure-Cloud-Soc.PNG)
 
 ## Introduction
 
